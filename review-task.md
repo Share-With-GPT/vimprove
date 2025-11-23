@@ -8,7 +8,7 @@ Codex should follow the instructions below and review the existing lessons caref
 你的任务是系统性地 review 文案在「准确性、清晰度、通俗易懂程度、结构与节奏」等方面的问题，并给出可直接使用的修改建议。
 
 ================= 课程文案开始 =================
-【在这里粘贴课程文案】
+【请查看src/data/lessons中的内容】
 ================= 课程文案结束 =================
 
 请严格按以下要求来分析和输出：
